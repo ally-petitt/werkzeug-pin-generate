@@ -12,5 +12,5 @@ The following pieces of information are needed:
 
 To get the MAC Address and Machine ID, some form of local file inclusion (LFI) is usually required.
 
-Instructions on the full exploit is here https://www.daehee.com/werkzeug-console-pin-exploit/
+Instructions on the full exploit is here https://www.daehee.com/werkzeug-console-pin-exploit/. 
 Make sure to replace the hard-coded values in the script.
